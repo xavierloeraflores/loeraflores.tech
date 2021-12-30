@@ -1,0 +1,6 @@
+#Ignore path & file type
+node_modules
+.next
+next.config.js
+*.html
+*.css
